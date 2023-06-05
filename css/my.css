@@ -1,0 +1,27 @@
+.bg0 {
+  background-image: url(https://img.cjthemarket.com/images/file/display/697/20230531183151961.gif?SF=webp&RS=1920x500);
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  background-position: center;
+  background-color: #ffc41b;
+}
+
+.bg1 {
+  background-image: url(https://img.cjthemarket.com/images/file/display/242/20230220092806072.jpg?SF=webp&RS=1920x500);
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  background-position: center;
+  background-color: #e3f6fb;
+}
+
+.bg2 {
+  background-image: url(https://img.cjthemarket.com/images/file/display/442/20230530164341992.gif?SF=webp&RS=1920x500);
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  background-position: center;
+  background-color: #e3f6fb;
+}
+
+#banner .swiper-slide {
+  height: auto;
+}
